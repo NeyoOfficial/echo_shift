@@ -1,2 +1,3 @@
-# the_horde
-Izometryczna gra survival action 2.5D w Unity. Przetrwaj w świecie opanowanym przez zombie, wykorzystując system hałasu i wabienia hordy zamiast bezpośredniej walki. Nie musisz pokonać wszystkich — musisz przeżyć.
+ECHO SHIFT
+
+Dwuwymiarowa gra logiczno-platformowa 2D w Unity, w której gracz przełącza się pomiędzy dwiema wersjami świata – Materialną i Echa. Wykorzystuj unikalną mechanikę zmiany faz, aby odkrywać ukryte platformy, aktywować przełączniki i pokonywać przeszkody. Obserwuj otoczenie, planuj kolejne ruchy i wykorzystuj różnice między światami, aby dotrzeć do wyjścia. Każda faza skrywa inne możliwości – kluczem do sukcesu jest odpowiedni moment przełączenia.
